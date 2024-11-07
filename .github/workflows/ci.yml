@@ -9,9 +9,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Set up Rust
-      uses: actions/setup-rust@v1
+      uses: actions-rs/toolchain@v1
       with:
-        rust-version: stable
+        profile: minimal
+        toolchain: stable
     - name: Build
       run: cargo build --verbose
     - name: Run tests
