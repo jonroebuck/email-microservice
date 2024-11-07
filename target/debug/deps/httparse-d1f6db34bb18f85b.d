@@ -1,0 +1,12 @@
+C:\Users\jon_r\git\email-microservice\target\debug\deps\libhttparse-d1f6db34bb18f85b.rmeta: C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src/lib.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\iter.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\macros.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\mod.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\swar.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\sse42.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\avx2.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\runtime.rs
+
+C:\Users\jon_r\git\email-microservice\target\debug\deps\httparse-d1f6db34bb18f85b.d: C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src/lib.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\iter.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\macros.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\mod.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\swar.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\sse42.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\avx2.rs C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\runtime.rs
+
+C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src/lib.rs:
+C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\iter.rs:
+C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\macros.rs:
+C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\mod.rs:
+C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\swar.rs:
+C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\sse42.rs:
+C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\avx2.rs:
+C:\Users\jon_r\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.9.5\src\simd\runtime.rs:
